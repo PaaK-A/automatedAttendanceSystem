@@ -45,8 +45,8 @@ The following python libraries were used as a workaround for sending emails via 
 
 
 The following must also be called in both the admin end and student end: 
-- attendanceFunctions: [attendanceFunctions.py](https://github.com/Ashesi-Org/attendaceSystem_PaaKwesiAddae/blob/main/attendanceFunctions.py)
-- attendanceOOP: [attendanceOOP.py](https://github.com/Ashesi-Org/attendaceSystem_PaaKwesiAddae/blob/main/attendanceOOP.py)
+- attendanceFunctions: [attendanceFunctions.py]
+- attendanceOOP: [attendanceOOP.py]
 
 
 ## Appendix
